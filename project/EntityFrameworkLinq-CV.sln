@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkLinq-CV", "EntityFrameworkLinq-CV\EntityFrameworkLinq-CV.csproj", "{754DFC71-47FB-4483-AA06-0E175F24995D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754DFC71-47FB-4483-AA06-0E175F24995D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754DFC71-47FB-4483-AA06-0E175F24995D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754DFC71-47FB-4483-AA06-0E175F24995D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754DFC71-47FB-4483-AA06-0E175F24995D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {481A0E43-94B6-4EAA-8804-EA21A7ED9336}
+	EndGlobalSection
+EndGlobal
